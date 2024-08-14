@@ -37,7 +37,7 @@
 
 
 
-    # 7. Iterate through each eigenvalue-eigenvector pair.
+    # 7. Use a loop and the zip function to iterate through each eigenvalue-eigenvector pair.
 
 
 
