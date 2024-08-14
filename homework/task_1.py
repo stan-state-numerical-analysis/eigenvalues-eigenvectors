@@ -10,21 +10,21 @@
 
 
 
-# 3. Use the numpy.linalg.eig function to calculate the eigenvalues and eigenvectors of A.
+# 3. Use the np.linalg.eig function to calculate the eigenvalues and eigenvectors of A.
 #    - Save the eigenvalues in a variable called eigenvalues.
 #    - Save the eigenvectors in a variable called eigenvectors.
 
 
 
 # 4. Print:
-Eigenvalues: ###
-where ### are the eigenvalues from above.
+# Eigenvalues: ###
+# where ### are the eigenvalues from above.
 
 
 
 # 5. Print:
-Eigenvectors: ###
-where ### are the eigenvectors from above.
+# Eigenvectors: ###
+# where ### are the eigenvectors from above.
 
 
 
@@ -32,8 +32,8 @@ where ### are the eigenvectors from above.
 # represents the eigensystem of A.
 #    - Parameters:
 #      - A: The matrix for which the eigenvector is being checked.
-#      - eigenvectors: The list of vectors being tested as eigenvectors.
 #      - eigenvalues: The corresponding list of eigenvalues.
+#      - eigenvectors: The list of vectors being tested as eigenvectors.
 
 
 
